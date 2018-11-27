@@ -1,0 +1,12 @@
+.allcard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.imgoffice-lineone{
+    width:32%;
+    margin:0 auto;
+    margin-bottom: 15px
+}

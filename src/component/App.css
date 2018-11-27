@@ -1,0 +1,153 @@
+@media only screen and (max-device-width: 480px) 
+	{
+
+.menu{
+
+background-color: white;
+position: fixed;
+top: 0;
+z-index: 2;
+width: 90%;
+}
+.head-menu ul {
+	list-style: none;
+	display: flex;
+	flex-direction: column;
+	font-size: 229%;
+	margin-left: -40%;
+}
+.logo img {
+	width: 90%;
+	height: 76%;
+}
+
+/*---------------------------*/
+.main-one img {
+	width: 10%;
+	margin-left: 56%;
+	margin-top: 20%;
+}
+.title{
+    
+        margin-top: 52%;
+    
+}
+.title h1 {
+	text-align: center;
+	color: #00b39b;
+	margin-left: 25%;
+}
+
+/*-----------------------------*/
+.para {
+    color: #747474;
+    font-family: 'Roboto Slab', sans-serif;
+}
+.para1 {
+    width: 100%;
+    
+}
+.para2 {
+    width: 100%;}
+
+.service {
+	width: 100%;
+	display: block;
+	margin-top: 5%;
+}
+.for-patients {
+    overflow: hidden;
+    width: 100%;
+    background-color: #00b39b;
+    margin-right: 1%;
+    margin-left: 14%;
+}
+.for-doctors {
+    overflow: hidden;
+    width: 100%;
+    background-color: #3d83df;
+    margin-left: 14%;
+    margin-right: 15%;
+    margin-top: 10%;
+}
+.subtitle-Bservice {
+	width: 203%;
+	font-size: 267%;
+	padding-top: 3%;
+	padding-left: 4%;
+	color: #00b39b;
+	line-height: 1cm;
+}
+.list-Bottomservice ul {
+	list-style-type: none;
+	display: flex;
+	color: #ababab;
+	padding: 9%;
+	 width: 100%; 
+	justify-content: space-between;
+	flex-wrap: wrap;
+	line-height: 2cm;
+	font-size: 209%;
+	font-family: 'Fjalla One', sans-serif;
+}
+.stat {
+    background-color: #D8F6F5;
+    background-image: none;
+    display: block;
+    margin-left: 10%;
+    margin-right: -19%;
+}
+.box-stat {
+	
+	width: 97%;
+	height: 900px;
+	padding-top: 0%;
+	padding-left: 14%;
+	font-size: 146%;
+}
+.offices {
+    margin-left: 11%;
+    padding-top: 12%;
+    padding-bottom: 13%;
+    width: 86%;
+    text-align: center;
+}
+.offices p{
+    line-height: 1.8;
+    font-size: 119%;
+}
+.imgoffice {
+   
+    display: flex;
+    flex-direction: column;
+    padding-left: 26%;
+}
+.imgoffice img {
+   width: 130%;
+   margin-left: -11%;
+}
+.imgoffice figcaption {
+    display: block;
+    font-size: 400%;
+}
+.imgoffice a{
+	
+	}
+	.imgoffice-lineone{
+		
+			display: block;
+		} 
+		.imgoffice-linetow {
+			display: block;
+   
+    padding-top: 0%;
+    margin-left: 4%
+}
+
+	.see-openings {
+	
+	font-size: 100%
+
+	}
+	
+}

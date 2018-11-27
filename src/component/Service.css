@@ -1,0 +1,100 @@
+.service{
+	width: 100%;
+display: flex;
+justify-content: stretch;
+margin-top: 5%;
+
+}
+.for-patients{
+	overflow: hidden;
+	width: 50%;
+	background-color: #00b39b;
+	margin-right: 1%;
+	margin-left: 15%;
+	
+
+}
+.text-patients{
+
+}
+.text-patients h1 {
+		color: white;
+  }
+.text-patients h2{
+		color: #747474;
+		margin-left:2%;
+
+	}
+.text-patients select{
+	width: 35%;
+	height: 50px;
+	margin-left: 4%;
+}
+.img-patients img{
+	width: 80%;
+	margin-left: 40%;
+}
+.for-doctors{
+	overflow: hidden;
+	width: 50%;
+	background-color: #3d83df;
+	margin-left: 1%;
+	margin-right: 15%;
+	
+
+}
+.text-doctors h2{
+	color: #747474;
+	margin-left:2%;
+}
+.text-doctors h1{
+	color: white;
+	
+}
+
+.img-doctors img{
+	width: 80%;
+	margin-top: 10%;
+	margin-left: 40%;
+	
+}
+/* ----------button service----- */
+.bottom-service {
+    width: 100%;
+   display: flex;
+   justify-content: space-around;
+   padding-top: 5%;
+   }
+.subtitle-Bservice{
+    width: 20%;
+    font-size: 200%;
+    padding-top: 3%;
+    padding-left: 4%;
+    color:  #00b39b;
+   line-height :1cm;
+}
+
+.list-Bottomservice ul{
+   list-style-type: none;
+   display: flex;
+   color: #ababab;
+   
+   padding: 9%;
+   width: 80%;
+   justify-content: space-between;
+   flex-wrap: wrap;
+    line-height :1cm;
+    font-size: 150%;
+    font-family: 'Fjalla One', sans-serif;
+
+       }
+.list-Bottomservice a{
+
+   text-decoration: none;
+   color: #ababab;
+}	
+.list-Bottomservice :hover{
+
+   
+   color: #00CCB1;
+}	

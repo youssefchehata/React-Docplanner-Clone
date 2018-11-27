@@ -1,0 +1,71 @@
+.stat{
+	background-color: #D8F6F5;
+	background-image: url("https://www.docplanner.com/img/sygnet.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	display: flex;
+	justify-content: stretch;
+}
+.text-stat{
+	/*border: solid blue;*/
+	text-align: center;
+	padding: 5%;
+
+}
+.text-stat h1{
+color: #00CCB1;
+}
+.text-stat p{
+color: #747474;
+padding-top: 5%;
+
+}
+.box-stat{
+	/*border: solid red;*/
+	width:50%;
+	height: 600px;
+	padding-top: 3%;
+	padding-left: 14%;
+	}
+	.box-stat h3{
+		color:#747474;
+	}
+	.box-stat p{
+		color: #00CCB1;
+	}
+.box-stat-1{
+display: flex;
+width: 80%;
+justify-content: space-around;
+padding: 10%;
+
+}
+.box-stat-2{
+display: flex;
+justify-content: space-around;
+width: 80%;
+}
+	.leaderin{
+	
+	background-color: white;
+	text-align: center;
+	padding: 3%;
+	}
+	.appointments {
+        background-color: white;
+        text-align: center;
+        padding: 3%;
+        margin-left: 12%;
+    }
+	.nbr-patients{
+		
+		background-color: white;
+		text-align: center;
+		padding: 3%;
+	}
+	.nbrdoctors{
+		
+		background-color: white;
+		text-align: center;
+		padding: 3%;
+	}

@@ -1,0 +1,19 @@
+/* 
+.imgoffice-lineone{
+display: flex;
+justify-content: center;
+}       */
+
+
+
+.see-openings {
+background-color: #1662c6;
+color: white;
+text-decoration: none;
+margin: 4px 2px;
+display: inline-block;
+padding: 15px 32px;
+text-align: center;
+
+
+}
